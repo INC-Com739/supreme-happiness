@@ -11,6 +11,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: darkred;
+    border: navy;
+    border-radius: 10px;
+    padding: 20px;
 }
 .game {
     height: 60vmin;
