@@ -11,7 +11,9 @@ Javascript
 Bootstrip
 
 WIREFRAME:
-https://files.slack.com/files-pri/TRS907ASK-F08H1KBSE5D/img_2155.jpg
+https://drive.google.com/file/d/1vWmU_z-OyhodW06f0nAZhi7ZYlnopLcp/view?usp=sharing
+https://drive.google.com/file/d/1sT7V2KAbglA2rwum6-pJDr4eUAx-ITAC/view?usp=sharing
+https://drive.google.com/file/d/1QfHsUj9Ss0cQqNMYWxJ_THDwuX5bDuTe/view?usp=sharing
 
 CONTACT:
 Author's Name: Isaiah Cleveland
